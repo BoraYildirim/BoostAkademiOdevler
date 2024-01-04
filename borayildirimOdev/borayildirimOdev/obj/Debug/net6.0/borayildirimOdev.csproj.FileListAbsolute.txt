@@ -1,0 +1,14 @@
+C:\Users\embek\OneDrive\Masaüstü\bora odev\borayildirimOdev\borayildirimOdev\obj\Debug\net6.0\borayildirimOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\embek\OneDrive\Masaüstü\bora odev\borayildirimOdev\borayildirimOdev\obj\Debug\net6.0\borayildirimOdev.AssemblyInfoInputs.cache
+C:\Users\embek\OneDrive\Masaüstü\bora odev\borayildirimOdev\borayildirimOdev\obj\Debug\net6.0\borayildirimOdev.AssemblyInfo.cs
+C:\Users\embek\OneDrive\Masaüstü\bora odev\borayildirimOdev\borayildirimOdev\obj\Debug\net6.0\borayildirimOdev.csproj.CoreCompileInputs.cache
+C:\Users\embek\OneDrive\Masaüstü\bora odev\borayildirimOdev\borayildirimOdev\bin\Debug\net6.0\borayildirimOdev.exe
+C:\Users\embek\OneDrive\Masaüstü\bora odev\borayildirimOdev\borayildirimOdev\bin\Debug\net6.0\borayildirimOdev.deps.json
+C:\Users\embek\OneDrive\Masaüstü\bora odev\borayildirimOdev\borayildirimOdev\bin\Debug\net6.0\borayildirimOdev.runtimeconfig.json
+C:\Users\embek\OneDrive\Masaüstü\bora odev\borayildirimOdev\borayildirimOdev\bin\Debug\net6.0\borayildirimOdev.dll
+C:\Users\embek\OneDrive\Masaüstü\bora odev\borayildirimOdev\borayildirimOdev\bin\Debug\net6.0\borayildirimOdev.pdb
+C:\Users\embek\OneDrive\Masaüstü\bora odev\borayildirimOdev\borayildirimOdev\obj\Debug\net6.0\borayildirimOdev.dll
+C:\Users\embek\OneDrive\Masaüstü\bora odev\borayildirimOdev\borayildirimOdev\obj\Debug\net6.0\refint\borayildirimOdev.dll
+C:\Users\embek\OneDrive\Masaüstü\bora odev\borayildirimOdev\borayildirimOdev\obj\Debug\net6.0\borayildirimOdev.pdb
+C:\Users\embek\OneDrive\Masaüstü\bora odev\borayildirimOdev\borayildirimOdev\obj\Debug\net6.0\borayildirimOdev.genruntimeconfig.cache
+C:\Users\embek\OneDrive\Masaüstü\bora odev\borayildirimOdev\borayildirimOdev\obj\Debug\net6.0\ref\borayildirimOdev.dll
