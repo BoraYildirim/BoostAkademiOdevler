@@ -1,0 +1,14 @@
+C:\Users\embek\OneDrive\Masaüstü\BoraYildirim\BoraYildirimOdev\BoraYildirimOdev\bin\Debug\net6.0\BoraYildirimOdev.exe
+C:\Users\embek\OneDrive\Masaüstü\BoraYildirim\BoraYildirimOdev\BoraYildirimOdev\bin\Debug\net6.0\BoraYildirimOdev.deps.json
+C:\Users\embek\OneDrive\Masaüstü\BoraYildirim\BoraYildirimOdev\BoraYildirimOdev\bin\Debug\net6.0\BoraYildirimOdev.runtimeconfig.json
+C:\Users\embek\OneDrive\Masaüstü\BoraYildirim\BoraYildirimOdev\BoraYildirimOdev\bin\Debug\net6.0\BoraYildirimOdev.dll
+C:\Users\embek\OneDrive\Masaüstü\BoraYildirim\BoraYildirimOdev\BoraYildirimOdev\bin\Debug\net6.0\BoraYildirimOdev.pdb
+C:\Users\embek\OneDrive\Masaüstü\BoraYildirim\BoraYildirimOdev\BoraYildirimOdev\obj\Debug\net6.0\BoraYildirimOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\embek\OneDrive\Masaüstü\BoraYildirim\BoraYildirimOdev\BoraYildirimOdev\obj\Debug\net6.0\BoraYildirimOdev.AssemblyInfoInputs.cache
+C:\Users\embek\OneDrive\Masaüstü\BoraYildirim\BoraYildirimOdev\BoraYildirimOdev\obj\Debug\net6.0\BoraYildirimOdev.AssemblyInfo.cs
+C:\Users\embek\OneDrive\Masaüstü\BoraYildirim\BoraYildirimOdev\BoraYildirimOdev\obj\Debug\net6.0\BoraYildirimOdev.csproj.CoreCompileInputs.cache
+C:\Users\embek\OneDrive\Masaüstü\BoraYildirim\BoraYildirimOdev\BoraYildirimOdev\obj\Debug\net6.0\BoraYildirimOdev.dll
+C:\Users\embek\OneDrive\Masaüstü\BoraYildirim\BoraYildirimOdev\BoraYildirimOdev\obj\Debug\net6.0\refint\BoraYildirimOdev.dll
+C:\Users\embek\OneDrive\Masaüstü\BoraYildirim\BoraYildirimOdev\BoraYildirimOdev\obj\Debug\net6.0\BoraYildirimOdev.pdb
+C:\Users\embek\OneDrive\Masaüstü\BoraYildirim\BoraYildirimOdev\BoraYildirimOdev\obj\Debug\net6.0\BoraYildirimOdev.genruntimeconfig.cache
+C:\Users\embek\OneDrive\Masaüstü\BoraYildirim\BoraYildirimOdev\BoraYildirimOdev\obj\Debug\net6.0\ref\BoraYildirimOdev.dll
